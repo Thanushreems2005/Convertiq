@@ -1,0 +1,9 @@
+channel,variant,signups,conversion_rate_pct
+organic,A,8767,45.45
+organic,B,8653,51.82
+paid_search,A,4948,43.19
+paid_search,B,4959,50.23
+paid_social,A,7594,40.19
+paid_social,B,7616,45.64
+referral,A,3748,47.87
+referral,B,3715,55.42
